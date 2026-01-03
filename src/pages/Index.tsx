@@ -89,7 +89,7 @@ const Index = () => {
                     The Wedding Chronicle
                   </h1>
                   <p className="text-xs text-ink-muted tracking-widest uppercase mb-4">
-                    Special Edition • 14 Februari, 2026
+                    Edisi Spesial
                   </p>
                   <div className="divider-thick" />
                 </div>
@@ -103,19 +103,19 @@ const Index = () => {
                 className="py-12 md:py-20 text-center"
               >
                 <div className="container max-w-4xl mx-auto px-6">
-                  <p className="caption-text mb-4">Joyfully Announce</p>
+                  <p className="caption-text mb-4">Kabar Bahagia</p>
                   <h2 className="headline-primary mb-6">Nadia & Bagas</h2>
                   <p className="subheadline text-2xl md:text-3xl mb-4">
-                    are getting married
+                    akan melangsungkan pernikahan
                   </p>
                   <div className="divider-ornate">
                     <img src={NbBlack} alt="Nadia & Bagas" className="mx-auto mt-4 w-30 md:w-64 lg:w-50" />
                   </div>
                   <p className="font-display text-xl md:text-2xl text-ink-light mt-4">
-                    Saturday, the Twenty-First of June
+                    14 Februari 2026
                   </p>
                   <p className="font-display text-lg text-ink-light">
-                    Two Thousand Twenty-Five
+                    Sebuah Hari yang Dinanti
                   </p>
                 </div>
               </motion.section>
