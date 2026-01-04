@@ -30,12 +30,12 @@ const Footer = () => {
 
           {/* Tagline */}
           <p className="text-sm text-paper/60 tracking-widest uppercase mb-4">
-            Dicetak dengan cinta
+            — TERBITAN KHUSUS —
           </p>
 
           {/* Credits */}
           <p className="text-xs text-paper/40">
-            The Wedding Chronicle • Edisi Khusus
+            Edisi Pernikahan
           </p>
           <p className="text-xs text-paper/40 mt-2">
             Kawanika Wedding Invitation

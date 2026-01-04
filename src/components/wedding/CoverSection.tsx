@@ -92,9 +92,7 @@ const CoverSection = ({ onOpen }: CoverSectionProps) => {
               <h1 className="font-display text-4xl md:text-6xl lg:text-7xl font-black uppercase tracking-tight text-ink leading-none">
                 The Wedding Times
               </h1>
-              <p className="text-[10px] md:text-xs text-ink-muted mt-2 tracking-[0.2em] uppercase">
-                "Semua Cinta yang Layak Dicetak" • Didirikan di Tahun Cinta
-              </p>
+
             </motion.div>
 
             {/* Date Bar */}
@@ -139,7 +137,7 @@ const CoverSection = ({ onOpen }: CoverSectionProps) => {
                     <span className="text-[10px] md:text-xs block uppercase tracking-wider">Detik</span>
                   </div>
                 </div>
-                <span className="text-[10px] md:text-xs uppercase tracking-wider">Menuju "Saya Bersedia"</span>
+                <span className="text-[10px] md:text-xs uppercase tracking-wider">Menuju Sebuah Ikatan</span>
               </div>
             </motion.div>
 
@@ -151,13 +149,13 @@ const CoverSection = ({ onOpen }: CoverSectionProps) => {
               className="text-center py-4 border-b border-ink"
             >
               <p className="text-xs md:text-sm uppercase tracking-[0.3em] text-ink-muted mb-2">
-                Pengumuman Pernikahan • Simpan Tanggalnya
+                Kabar Pernikahan • Hari yang Dinanti
               </p>
               <h2 className="font-display text-5xl md:text-7xl lg:text-8xl font-black uppercase text-ink leading-none tracking-tight">
                 NADIA & BAGAS
               </h2>
               <p className="font-display text-xl md:text-3xl italic text-ink-light mt-2">
-                "Kisah Cinta yang Layak Dicetak"
+                "Kisah Cinta yang Pantas Diberitakan"
               </p>
             </motion.div>
 
@@ -230,7 +228,7 @@ const CoverSection = ({ onOpen }: CoverSectionProps) => {
                   </div>
                 </div>
                 <p className="text-[10px] md:text-xs text-ink-muted text-center mt-2 italic">
-                  Foto: Potret eksklusif pasangan bahagia di hari pertunangan mereka
+                  Foto: Potret kebahagiaan
                 </p>
               </div>
 
@@ -308,10 +306,10 @@ const CoverSection = ({ onOpen }: CoverSectionProps) => {
               className="text-center py-4 border-b border-ink"
             >
               <p className="font-display text-lg md:text-2xl italic text-ink-light">
-                "Dua jiwa dengan satu pikiran, dua hati yang berdenyut sebagai satu."
+                “Yang fana adalah waktu. Kita abadi.”
               </p>
               <p className="text-[10px] md:text-xs text-ink-muted mt-1 uppercase tracking-wider">
-                — John Keats
+                — Sapardi Djoko Damono —
               </p>
             </motion.div>
 
@@ -329,7 +327,7 @@ const CoverSection = ({ onOpen }: CoverSectionProps) => {
                 Buka Undangan
               </button>
               <p className="mt-3 text-[10px] md:text-xs text-ink-muted uppercase tracking-[0.15em]">
-                Klik untuk melanjutkan membaca • Konten eksklusif di dalam
+                •Klik untuk melanjutkan•
               </p>
             </motion.div>
 
@@ -340,9 +338,9 @@ const CoverSection = ({ onOpen }: CoverSectionProps) => {
               transition={{ delay: 1.1, duration: 0.5 }}
               className="flex flex-wrap justify-center items-center gap-2 md:gap-4 text-[9px] md:text-[10px] text-ink-muted uppercase tracking-wider border-t border-ink pt-4"
             >
-              <span>© 2026 The Wedding Times</span>
+              <span>© 2026</span>
               <span className="hidden md:inline">•</span>
-              <span>Dicetak dengan Cinta</span>
+              <span>Edisi Khusus Pernikahan</span>
               <span className="hidden md:inline">•</span>
               <span>N & B</span>
             </motion.div>
